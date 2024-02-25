@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-acot = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@umd/browser.js' )
+acot = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@v0.2.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var acot = require( 'path/to/vendor/umd/math-base-special-acot/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@v0.2.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -96,7 +96,7 @@ v = acot( Infinity );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@v0.2.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
