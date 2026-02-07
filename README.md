@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@deno/mod.js';
+import acot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@v0.2.4-deno/mod.js';
 ```
 
 #### acot( x )
@@ -70,7 +70,7 @@ v = acot( Infinity );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import acot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@deno/mod.js';
+import acot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@v0.2.4-deno/mod.js';
 
 var x = uniform( 100, -5.0, 5.0, {
     'dtype': 'float64'
