@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@esm/index.mjs';
+import acot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@v0.2.4-esm/index.mjs';
 ```
 
 #### acot( x )
@@ -75,7 +75,7 @@ v = acot( Infinity );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import acot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@esm/index.mjs';
+import acot from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acot@v0.2.4-esm/index.mjs';
 
 var x = uniform( 100, -5.0, 5.0, {
     'dtype': 'float64'
