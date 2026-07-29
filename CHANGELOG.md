@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-09)
+## Unreleased (2026-07-29)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`bf8f11d`](https://github.com/stdlib-js/stdlib/commit/bf8f11d7c120b06d3bb17e5e585ffed1d8e30a9a) - **test:** migrate `math/base/special/acot` to ULP-based testing [(#13739)](https://github.com/stdlib-js/stdlib/pull/13739) _(by Ujjwal Verma)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Ujjwal Verma
 
 </section>
 
